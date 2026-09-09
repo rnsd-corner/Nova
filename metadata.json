@@ -1,0 +1,6 @@
+{
+  "name": "NOVA AI Landing",
+  "description": "Portfolio-quality futuristic landing page for NOVA AI workspace - Work at the speed of thought.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
